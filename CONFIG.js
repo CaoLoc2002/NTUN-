@@ -6,5 +6,5 @@ const CONFIGDATA = {
   buttonNo: "Không! Còn lâu nhé.",
   titleModar: "Cảm ơn em vì đồng ý",
   descriptionModar:
-    'anh biết là em sẽ đồng ý lờ xin lỗi cảu anh mà ^^ </br> Anh yêu bé Vợ xing gai<3.Mãi Mãi Yêu Vợ) </br> "Anh rất là yêu vợ.Yêu vợ rất nhiều luôn </br>  Yêu vợ nhất trời luôn "',
+    'anh biết là em sẽ đồng ý lờ xin lỗi củu anh mà ^^ </br> Anh yêu bé xing gai<3.Mãi Mãi Yêu) </br> "Anh rất là yêu vợ.Yêu vợ rất nhiều luôn </br>  Yêu vợ nhất trời luôn "',
 };
